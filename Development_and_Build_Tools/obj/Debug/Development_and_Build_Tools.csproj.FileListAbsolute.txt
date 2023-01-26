@@ -1,0 +1,7 @@
+D:\git\EPAM\EPAM\Development_and_Build_Tools\bin\Debug\Development_and_Build_Tools.exe
+D:\git\EPAM\EPAM\Development_and_Build_Tools\bin\Debug\Development_and_Build_Tools.pdb
+D:\git\EPAM\EPAM\Development_and_Build_Tools\obj\Debug\Development_and_Build_Tools.csproj.AssemblyReference.cache
+D:\git\EPAM\EPAM\Development_and_Build_Tools\obj\Debug\Development_and_Build_Tools.csproj.SuggestedBindingRedirects.cache
+D:\git\EPAM\EPAM\Development_and_Build_Tools\obj\Debug\Development_and_Build_Tools.csproj.CoreCompileInputs.cache
+D:\git\EPAM\EPAM\Development_and_Build_Tools\obj\Debug\Development_and_Build_Tools.exe
+D:\git\EPAM\EPAM\Development_and_Build_Tools\obj\Debug\Development_and_Build_Tools.pdb
