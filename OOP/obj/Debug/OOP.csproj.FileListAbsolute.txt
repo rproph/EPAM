@@ -1,0 +1,7 @@
+D:\git\EPAM\EPAM\OOP\bin\Debug\OOP.exe
+D:\git\EPAM\EPAM\OOP\bin\Debug\OOP.pdb
+D:\git\EPAM\EPAM\OOP\obj\Debug\OOP.csproj.AssemblyReference.cache
+D:\git\EPAM\EPAM\OOP\obj\Debug\OOP.csproj.SuggestedBindingRedirects.cache
+D:\git\EPAM\EPAM\OOP\obj\Debug\OOP.csproj.CoreCompileInputs.cache
+D:\git\EPAM\EPAM\OOP\obj\Debug\OOP.exe
+D:\git\EPAM\EPAM\OOP\obj\Debug\OOP.pdb
